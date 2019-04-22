@@ -1,0 +1,9 @@
+---
+Name: myassetperms
+---
+SilverStripe\Assets\Flysystem\AssetAdapter:
+  file_permissions:
+    file:
+      public: 0755 # Replace with your desired permission for files
+    dir:
+      public: 0755 # Replace with your desired permission for folders

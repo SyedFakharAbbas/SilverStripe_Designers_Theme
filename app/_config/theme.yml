@@ -1,0 +1,9 @@
+---
+Name: mytheme
+---
+SilverStripe\View\SSViewer:
+  themes:
+    - 'it-tech'
+    - '$public'
+    - 'simple'
+    - '$default'

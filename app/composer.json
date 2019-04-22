@@ -1,0 +1,16 @@
+{
+  "name": "silverstripe/ProfessionalDesigners",
+  "description": "The Professional Designers Website",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Syed Fakhar Abbas",
+      "email": "syedfakhar15@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "SilverStripe\\DeveTheme\\": "src/"
+    }
+  }
+}
